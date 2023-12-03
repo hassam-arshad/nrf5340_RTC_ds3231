@@ -1,0 +1,2 @@
+osource "f:/fl/rocket_drones/test/nrf5340_rtc_ds3231/boards/shields/*/Kconfig.shield"
+osource "C:/ncs/v2.4.0/nrf/boards/shields/*/Kconfig.shield"
